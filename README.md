@@ -7,7 +7,7 @@ This tutorial covers the main concepts you'll need to know to use Great Expectat
 If anything is incomplete or unclear, don't hesitate to open an issue! 
 
 ## Reading online
-If you'd just like to read along, just open [`tutorial_great_expectations.ipynb`] or [`tutorial_pandera.ipynb`] in the repository and you're good to go! We made sure all important output is available online.
+If you'd just like to read along, just open [`tutorial_great_expectations.ipynb`](https://github.com/Quen1/AIclinic-TotalEnergies-tutoQA/blob/main/tutorial_great_expectations%20.ipynb) or [`tutorial_pandera.ipynb`](https://github.com/Quen1/AIclinic-TotalEnergies-tutoQA/blob/main/tutorial_pandera.ipynb) in the repository and you're good to go! We made sure all important output is available online.
 
 If you'd like to run the tutorial without running anything on your own machine, you can open it in mybinder. (https://mybinder.org/)
 
